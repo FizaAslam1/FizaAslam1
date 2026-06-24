@@ -65,3 +65,5 @@ Repo: https://github.com/FizaAslam1/customer-churn-prediction
 ---
 
 "Turning complex data into simple, intelligent solutions."
+
+<!-- profile refreshed -->
