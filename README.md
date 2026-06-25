@@ -17,12 +17,12 @@
 
 ```python
 fiza = {
-    "role"      : "Aspiring Data Scientist & ML Engineer",
-    "education" : "BS IT — Islamia University Bahawalpur (6th Sem)",
+    "role": "Aspiring Data Scientist & ML Engineer",
+    "education": "BS IT — Islamia University Bahawalpur (6th Sem)",
     "experience": "AI Engineer Intern @ CodeCelix (Jan–Apr 2026)",
-    "focus"     : ["Machine Learning", "NLP", "Azure Cloud", "Streamlit Apps"],
-    "location"  : "Bahawalnagar, Pakistan",
-    "open_to"   : "Internships · Collaborations · Full-time roles"
+    "focus": ["Machine Learning", "NLP", "Azure Cloud", "Streamlit Apps"],
+    "location": "Bahawalnagar, Pakistan",
+    "open_to": "Internships · Collaborations · Full-time roles"
 }
 ```
 
@@ -32,9 +32,9 @@ fiza = {
 
 | Project | Description | Tech | Live |
 |--------|------------|------|------|
-| ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlit | [🔗 Demo](https://ev-safety-system-5w5ik8ftvztrpk4shuic7c.streamlit.app/) |
-| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores & feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Demo](https://customer-churn-prediction-kr8rlyy5c3ecmvexc7iumv.streamlit.app/) |
-| 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | [🔗 Demo](https://priceoptimizer-fhpoppqc4yy6t5kmg9evax.streamlit.app/) |
+| ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlit | [🔗 Demo](https://ev-safety.streamlit.app) |
+| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores & feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Demo](https://churn-predict.streamlit.app) |
+| 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | [🔗 Demo](https://price-optimizer.streamlit.app) |
 | 🧠 **Sentiment Analysis** | NLP sentiment classifier — transformer vs traditional ML benchmarking | Hugging Face, Scikit-learn | — |
 
 ---
