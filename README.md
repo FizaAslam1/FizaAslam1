@@ -2,7 +2,7 @@
 
 Data Scientist passionate about AI, Machine Learning & Deep Learning. Turning data into intelligent solutions. Exploring NLP, CV & Generative AI.
 
-🔭 I’m currently building ML models and experimenting with NLP, computer vision, and generative AI workflows.  
+ I’m currently building ML models and experimenting with NLP, computer vision, and generative AI workflows.  
 🌱 Learning model deployment, MLOps basics, and advanced deep learning.  
 💬 Ask me about Python, pandas, scikit-learn, TensorFlow/PyTorch, and data pipelines.
 
