@@ -54,10 +54,26 @@
 
 | Project | Description | Tech | Live |
 |--------|------------|------|------|
-| ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlit | [🔗 Demo](https://ev-safety-system-5w5ik8ftvztrpk4shuic7c.streamlit.app/) |
-| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores & feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Demo](https://customer-churn-prediction-kr8rlyy5c3ecmvexc7iumv.streamlit.app/) |
-| 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | [🔗 Demo](https://priceoptimizer-fhpoppqc4yy6t5kmg9evax.streamlit.app/) |
+| ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlit | [🔗 Demo](https://ev-safety-system-01.streamlit.app) |
+| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores & feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Live](https://customer-churn-predictor-01.streamlit.app) |
+| 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | [🔗 Demo](https://priceoptimizerpy.streamlit.app) |
 | 🧠 **Sentiment Analysis** | NLP sentiment classifier — transformer vs traditional ML benchmarking | Hugging Face, Scikit-learn | — |
+
+---
+
+## 📈 GitHub Stats & Streak
+
+<div align="center">
+
+### 🔥 Current Activity
+
+![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FizaAslam1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FizaAslam1&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FizaAslam1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -83,17 +99,6 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FizaAslam1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FizaAslam1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
