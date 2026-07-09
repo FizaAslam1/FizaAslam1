@@ -55,7 +55,7 @@
 | Project | Description | Tech | Live |
 |--------|------------|------|------|
 | ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlite | [🔗 Demo](https://ev-safety-system-01.streamlit.app) |
-| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores & feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Live](https://customer-churn-predictor-01.streamlit.app) |
+| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores and feature importance | Scikit-learn, SMOTE, Streamlit | [🔗 Live](https://customer-churn-predictor-01.streamlit.app) |
 | 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | [🔗 Demo](https://priceoptimizerpy.streamlit.app) |
 | 🧠 **Sentiment Analysis** | NLP sentiment classifier — transformer vs traditional ML benchmarking | Hugging Face, Scikit-learn | — |
 
