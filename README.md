@@ -19,7 +19,7 @@
   <tr>
     <td width="32"><b>🎓</b></td>
     <td><b>Education</b></td>
-    <td>BS Information Technology — The Islamia University Bahawalpur <i></i></td>
+    <td>BS Information Technology — The Islamia University Bahawalpur <i>(7th semester)</i></td>
   </tr>
   <tr>
     <td><b>💼</b></td>
