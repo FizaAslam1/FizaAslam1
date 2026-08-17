@@ -105,7 +105,7 @@
 ## 🏅 Certifications
 
 - 🐍 IBM Python for Data Science
-- 📊 Data Analytics — HP
+- 📊 Data Analytics — hp
 - ☁️ Microsoft Azure Fundamentals AZ-900 *(In Progress)*
 - 🤖 Google AI Essentials — Coursera (5 certificates)
 - 🔗 Career Skills in Data Analytics — LinkedIn Learning
