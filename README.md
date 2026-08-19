@@ -19,7 +19,7 @@
   <tr>
     <td width="32"><b>🎓</b></td>
     <td><b>Education</b></td>
-    <td>BS Information Technology — The Islamia University Bahawalpur <i></i></td>
+    <td>BS Information Technology — The Islamia University Bahawalpur</td>
   </tr>
   <tr>
     <td><b>💼</b></td>
@@ -50,24 +50,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech | 
-|--------|------------|------|------|
-| ⚡ **[EV Safety System](https://github.com/FizaAslam1/EV-Safety-system)** | AI predictive maintenance for EV chargers — 99% accuracy, 0 missed failures | Python, Random Forest, Streamlite |
-| 📊 **[Customer Churn Prediction](https://github.com/FizaAslam1/customer-churn-prediction)** | Telecom churn prediction with confidence scores and feature importance | Scikit-learn, SMOTE, 
-| 💰 **[PriceOptimizer AI](https://github.com/FizaAslam1/price_optimizer)** | Dynamic pricing engine with What-If simulator — R²=0.88, 80+ price points | XGBoost, Plotly, Streamlit | 
-| 🧠 **Sentiment Analysis** | NLP sentiment classifier  transformer vs traditional ML benchmarking | Hugging Face, Scikit-learn |
-
----
-
-## 📈 GitHub Stats & Streak
+## 📊 GitHub Stats & Contribution Streak
 
 <div align="center">
 
-### 🔥 Current Activity
-
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FizaAslam1&show_icons=true&theme=tokyonight&hide_border=true)
+![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FizaAslam1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FizaAslam1&theme=tokyonight&hide_border=true)
 
@@ -77,44 +64,171 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**ML / AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Data & Visulaization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-
-**Cloud & Deployment**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ <a href="https://github.com/FizaAslam1/Attrition-shield">Attrition Shield</a></h3>
+      <p><strong>Employee Attrition Prediction System</strong></p>
+      <ul>
+        <li>🤖 Deep Learning (ANN) with TensorFlow & Keras</li>
+        <li>📊 SMOTE balancing for imbalanced data</li>
+        <li>📈 Risk Scoring & Gauge Charts</li>
+        <li>🚀 Deployed on Hugging Face & Streamlit</li>
+      </ul>
+      <p><strong>Accuracy:</strong> Production-ready | <strong>Tech:</strong> Python, TensorFlow</p>
+    </td>
+    <td width="50%">
+      <h3>🫁 <a href="https://github.com/FizaAslam1/Chest-XRay-Pneumonia-Detector">Pneumonia Detector</a></h3>
+      <p><strong>Medical Imaging Classification</strong></p>
+      <ul>
+        <li>🏥 VGG16 Transfer Learning model</li>
+        <li>✅ 98.5% Recall accuracy</li>
+        <li>🎯 Real-time X-Ray analysis</li>
+        <li>🚀 Streamlit + Hugging Face deployment</li>
+      </ul>
+      <p><strong>Performance:</strong> Enterprise-grade | <strong>Tech:</strong> TensorFlow, CNN</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📰 <a href="https://github.com/FizaAslam1/fake-news-detector">Fake News Detector</a></h3>
+      <p><strong>Misinformation Classification Engine</strong></p>
+      <ul>
+        <li>🎯 99.5% accuracy in real/fake detection</li>
+        <li>🔍 LIME explainability for predictions</li>
+        <li>📝 Advanced NLP preprocessing</li>
+        <li>⚡ Fast classification pipeline</li>
+      </ul>
+      <p><strong>Accuracy:</strong> 99.5% | <strong>Tech:</strong> Scikit-learn, LIME</p>
+    </td>
+    <td width="50%">
+      <h3>💼 <a href="https://github.com/FizaAslam1/Resume-analyzer">Resume Analyzer</a></h3>
+      <p><strong>AI-Powered Resume Matcher</strong></p>
+      <ul>
+        <li>🔎 Skill extraction with NLP</li>
+        <li>🧠 Semantic similarity (SBERT)</li>
+        <li>💡 Missing skill recommendations</li>
+        <li>📊 Interactive Streamlit interface</li>
+      </ul>
+      <p><strong>Features:</strong> Smart matching | <strong>Tech:</strong> SBERT, NLP</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 <a href="https://github.com/FizaAslam1/price_optimizer">Price Optimizer</a></h3>
+      <p><strong>Dynamic Pricing ML Engine</strong></p>
+      <ul>
+        <li>📊 XGBoost demand prediction</li>
+        <li>💡 Profit maximization algorithms</li>
+        <li>📈 R² = 0.88 performance</li>
+        <li>🎨 What-If simulator with Plotly</li>
+      </ul>
+      <p><strong>R²:</strong> 0.88 | <strong>Tech:</strong> XGBoost, Streamlit</p>
+    </td>
+    <td width="50%">
+      <h3>🚗 <a href="https://github.com/FizaAslam1/EV-Safety-system">EV Charger Maintenance</a></h3>
+      <p><strong>Predictive Maintenance System</strong></p>
+      <ul>
+        <li>🔧 Proactive failure detection</li>
+        <li>✅ 99% prediction accuracy</li>
+        <li>⚡ Zero missed failures</li>
+        <li>🚀 Real-time monitoring</li>
+      </ul>
+      <p><strong>Accuracy:</strong> 99% | <strong>Tech:</strong> Random Forest, ML</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔄 <a href="https://github.com/FizaAslam1/customer-churn-prediction">Customer Churn Prediction</a></h3>
+      <p><strong>Telecom Churn Analytics</strong></p>
+      <ul>
+        <li>📊 Telecom customer prediction</li>
+        <li>🎯 Confidence scores & intervals</li>
+        <li>📈 Feature importance analysis</li>
+        <li>🎨 Interactive dashboards</li>
+      </ul>
+      <p><strong>Feature:</strong> Business insights | <strong>Tech:</strong> Scikit-learn, SMOTE</p>
+    </td>
+    <td width="50%">
+      <h3>💬 <a href="https://github.com/FizaAslam1/SENTIMENT-ANALYSIS">Sentiment Analysis</a></h3>
+      <p><strong>NLP Text Classification</strong></p>
+      <ul>
+        <li>🧠 Transformer vs Traditional ML</li>
+        <li>🔍 Deep text understanding</li>
+        <li>⚙️ Fine-tuned Hugging Face models</li>
+        <li>📊 Benchmark comparisons</li>
+      </ul>
+      <p><strong>Focus:</strong> NLP Excellence | <strong>Tech:</strong> Hugging Face, Transformers</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏅 Certifications
+## 🛠️ Tech Stack
 
-- 🐍 IBM Python for Data Science
-- 📊 Data Analytics — hp
-- ☁️ Microsoft Azure Fundamentals AZ-900 *(In Progress)*
-- 🤖 Google AI Essentials — Coursera (5 certificates)
-- 🔗 Career Skills in Data Analytics — LinkedIn Learning
+<div align="center">
+
+### **Machine Learning & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### **Data & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white)
+
+### **Cloud & Deployment**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### **Web & Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Certifications & Learning
+
+- 🐍 **IBM Python for Data Science**
+- 📊 **Data Analytics** — HP
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)** — *In Progress*
+- 🤖 **Google AI Essentials** — Coursera (5 certificates)
+- 🔗 **Career Skills in Data Analytics** — LinkedIn Learning
+
+---
+
+## 📈 Current Focus
+
+<div align="center">
+
+- 🚀 **Production-Ready ML Models** — Building enterprise-grade solutions
+- 📊 **Advanced Data Analysis** — Complex analytics & business intelligence
+- ☁️ **Cloud Deployment** — Azure & Hugging Face integration
+- 🧠 **Generative AI** — LLMs, RAG systems, and prompt engineering
+- 🔍 **NLP & Computer Vision** — Deep learning applications
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Turning data into intelligent solutions, one model at a time."*
+### *"Turning data into intelligent solutions, one model at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FizaAslam1&color=7c3aed&style=flat-square)
 
