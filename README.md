@@ -24,7 +24,7 @@
   <tr>
     <td><b>💼</b></td>
     <td><b>Experience</b></td>
-    <td>AI Engineer Intern @ <b>CodeCelix</b> · January – April 2026</td>
+    <td>AI Engineer Intern @ <b>CodeCelix</b> · Jan – Apr 2026</td>
   </tr>
   <tr>
     <td><b>📍</b></td>
