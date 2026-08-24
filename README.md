@@ -99,7 +99,7 @@
         <li>🎯 99.5% accuracy in real/fake detection</li>
         <li>🔍 LIME explainability for predictions</li>
         <li>📝 Advanced NLP preprocessing</li>
-        <li>⚡ Fast classification pipeline</li>
+        <li>⚡ Fast classification pipelines</li>
       </ul>
       <p><strong>Accuracy:</strong> 99.5% | <strong>Tech:</strong> Scikit-learn, LIME</p>
     </td>
