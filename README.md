@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td><b>🔍</b></td>
-    <td><b>Focus Areas</b></td>
+    <td><b>Focus Area</b></td>
     <td>
       <img src="https://img.shields.io/badge/Machine%20Learning-0077B5?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/NLP-1D9E75?style=flat-square&logoColor=white" />
