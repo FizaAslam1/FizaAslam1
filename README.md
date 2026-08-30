@@ -75,7 +75,7 @@
         <li>🤖 Deep Learning (ANN) with TensorFlow & Keras</li>
         <li>📊 SMOTE balancing for imbalanced data</li>
         <li>📈 Risk Scoring & Gauge Charts</li>
-        <li>🚀 Deployed on Hugging Face & Streamlite</li>
+        <li>🚀 Deployed on Hugging Face & Streamlit</li>
       </ul>
       <p><strong>Accuracy:</strong> Production-ready | <strong>Tech:</strong> Python, TensorFlow</p>
     </td>
